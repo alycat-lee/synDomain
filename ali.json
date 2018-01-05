@@ -1,0 +1,14 @@
+{  
+    "ali": {
+        "_comment":"aks为阿里云Access Key Secret，aki为阿里云Access Key ID，akz为阿里云服务所属的地域 ID",
+        "aks": "******", 
+        "aki": "******", 
+        "akz": "cn-beijing"
+    }, 
+    "local": {
+        "_comment":"domain为域名，record为解析主机记录，type为记录类型（A,CNAME等）",
+        "domain": "yourdomain.com", 
+        "record": "www", 
+        "type": "A"
+    }
+}
